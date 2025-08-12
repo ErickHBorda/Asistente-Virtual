@@ -51,15 +51,11 @@ _Recuerda volver aquí de vez en cuando para asegurarte de tener siempre la últ
 | `basta` | Apaga al asistente | Okay, basta | La palabra `basta` debe decirse al final
 | `cancelar` | Cancela el pedido que estás solicitando | Okay, abrir YouTube. No, cancelar | La palabra `cancelar` debe decirse al final
 | `cerrar` ... `archivo` | Cierra el programa actual | Okay, cerrar archivo | ---
-| `tecla` X | Presiona la tecla solicitada | Okay, presioná la tecla P | Debe decirse al final del pedido
 | `alarma en` n `minutos` | Programa una alarma para dentro de n minutos | Okay, activá la alarma en 5 minutos | la palabra `alarma` debe decirse justo antes del `en`
 | `buscar` X `en` Y | Busca en el sitio Y lo que le pediste (X) | Okay, buscar "Mercado Libre" en Linkedin | Sólo funciona en sitios preconfigurados
 | `en` n `minutos` | Programa la ejecución de otro pedido para dentro de n minutos | Okay, abrir Netflix en tres minutos | "n" debe ser un número natural
 | `hora` | Consultar la hora | Okay, decime qué hora es | ---
 | `fecha` | Consultar la fecha | Okay, ¿qué fecha es hoy? | ---
-| `atajo` n | Abre el n-ésimo programa disponible de la barra de tareas | Okay, atajo 1 | `n` debe ser un número natural entre 1 y 9. No lo abrirá si no lo tenés disponible
-| `abre` X | Abre el sitio X | Okay, abre Twitter | Sólo funciona en sitios preconfigurados
-| `reproduce musica` | Setea el volumen al 20% y abre una lista de reproducción | Okay, reproduce música | La lista de reproducción debe estar en C:/Users/{usuario}/Music/av/musica.xspf
 | `mute` | Activa/desactiva el mute | Okay, mute | ---
 | `minimizar` | Minimiza el programa actual | Okay, minimizar | ---
 | `minimizar todo` | Minimiza todos los programas | Okay, minimizar todo | ---
@@ -67,12 +63,6 @@ _Recuerda volver aquí de vez en cuando para asegurarte de tener siempre la últ
 | `chiste` | Te dice un chiste único | Okay, decime un chiste | ---
 | `cómo te llamás` | Te dice su nombre | Okay, ¿Cómo te llamás? | ---
 | `captura de pantalla` | Hace una captura de pantalla | Okay, sacá una captura de pantalla | Guarda la captura en la carpeta `screenshots` ubicada donde está el asistente
-| `iniciá` / `detené` el `cronómetro` | Inicia o detiene un cronómetro | Okay, iniciá el cronómetro | ---
-| `nivel de humor` | Consulta el porcentaje de "humor" (5% por defecto) | Okay, decime tu nivel de humor | ---
-| `humor`...`X%` | Cambia el nivel de humor al n%, siendo n un número entero entre 0 y 100 | Okay, nivel de humor al 10% | ---
-| `ayuda` | Te redirige a este readme para entender mejor al asistente | Okay, necesito ayuda | ---
-| `ver código fuente` | Te redirige al código fuente del asistente | Okay, ver código fuente | ---
-| `temperatura` | Busca en google la info pedida sobre el clima | Okay, temperatura del fin de semana | ---
 
 Tiene varios activadores más pero sólo sirven para aumentar la interactividad
 
