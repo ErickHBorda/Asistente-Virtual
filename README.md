@@ -11,7 +11,7 @@ Mi objetivo con este proyecto es lograr que el asistente sea lo suficientemente 
 
 ### Descarga ⬇️
 
-Si deseas obtener una copia local del asistente listo para usar, haz click [aquí](https://github.com/ErickHBorda/Asistente-Virtual/raw/main/Asistente_virtual.rar). Te descargará una capreta comprimida en formato `.rar` llamada "Asistente_virtual" que tendrás que descomprimir.
+Si deseas obtener una copia local del asistente listo para usar, haz click [aquí](https://github.com/ErickHBorda/Asistente-Virtual/blob/master/Asistente_virtual.rar). Te descargará una capreta comprimida en formato `.rar` llamada "Asistente_virtual" que tendrás que descomprimir.
 
 _Recuerda volver aquí de vez en cuando para asegurarte de tener siempre la última versión!_
 
@@ -98,7 +98,7 @@ El código está hecho y testeado utilizando la versión 3.12.5 de Python y un W
 
 ### Descarga el código ⬇️
 
-Si deseas obtener una copia local, descarga el archivo comprimido .zip desde el botón verde "code" o haz click [aquí](https://github.com/ErickHBorda/Asistente-Virtual/archive/refs/heads/main.zip)
+Si deseas obtener una copia local, descarga el archivo comprimido .zip desde el botón verde "code"
 
 ### Instalación 🔧 (en windows)
 
