@@ -1,0 +1,16 @@
+.venv
+.vscode
+
+scripts/__pycache__
+__pycache__
+
+screenshots/**
+build
+dist
+
+*.spec
+
+test.py
+
+google_api/token.json
+config.ini
