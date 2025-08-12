@@ -1,8 +1,5 @@
 # Asistente virtual con Python
 
-> Ahora impulsado con IA!
-
-Bienvenido! este es mi primer asistente creado con Python. Hace un tiempo hice uno con JavaScript [aquí](https://github.com/Ale6100/Asistente-Virtual-JS.git) pero por las limitaciones de ese lenguaje no pude explotar su potencial.
 
 Mi objetivo con este proyecto es lograr que el asistente sea lo suficientemente útil como para que desees utilizarlo a diaro, sabiendo que lo puedes dejar encendido en segundo plano para que esté listo en cualquier momento que lo necesites.
 
@@ -14,7 +11,7 @@ Mi objetivo con este proyecto es lograr que el asistente sea lo suficientemente 
 
 ### Descarga ⬇️
 
-Si deseas obtener una copia local del asistente listo para usar, haz click [aquí](https://github.com/Ale6100/Asistente-Virtual-Python/raw/main/Asistente_virtual.rar). Te descargará una capreta comprimida en formato `.rar` llamada "Asistente_virtual" que tendrás que descomprimir.
+Si deseas obtener una copia local del asistente listo para usar, haz click [aquí](https://github.com/ErickHBorda/Asistente-Virtual/raw/main/Asistente_virtual.rar). Te descargará una capreta comprimida en formato `.rar` llamada "Asistente_virtual" que tendrás que descomprimir.
 
 _Recuerda volver aquí de vez en cuando para asegurarte de tener siempre la última versión!_
 
@@ -101,7 +98,7 @@ El código está hecho y testeado utilizando la versión 3.12.5 de Python y un W
 
 ### Descarga el código ⬇️
 
-Si deseas obtener una copia local, descarga el archivo comprimido .zip desde el botón verde "code" o haz click [aquí](https://github.com/Ale6100/Asistente-Virtual-Python/archive/refs/heads/main.zip)
+Si deseas obtener una copia local, descarga el archivo comprimido .zip desde el botón verde "code" o haz click [aquí](https://github.com/ErickHBorda/Asistente-Virtual/archive/refs/heads/main.zip)
 
 ### Instalación 🔧 (en windows)
 
@@ -149,10 +146,3 @@ para compilar el proyecto en la carpeta dist. Asegúrate de haber eliminado (o v
 ### Despliegue 📦
 
 Podrás iniciar el asistente ejecutando [GUI.py](GUI.py) o abriendo el archivo compilado [dist/Asistente_virtual/Asistente_virtual.exe](/dist/Asistente_virtual/Asistente_virtual.exe) en caso de que lo tengas creado
-
-## Autor ✒️
-
-| ![Alejandro Portaluppi](https://avatars.githubusercontent.com/u/107259761?size=50)
-|:-:
-| **Alejandro Portaluppi**
-|[![GitHub](https://img.shields.io/badge/github-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ale6100) [![LinkedIn](https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alejandro-portaluppi)
